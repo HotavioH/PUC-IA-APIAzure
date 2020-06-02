@@ -3,7 +3,7 @@
 <p align="center">Desenvolvimento de Trabalho Acadêmico, para a disciplina de Inteligência Artifical no curso de Engenharia da Computação, na PUC Minas.</p>
 
 <p align="center">
-    <img src="https://imgur.com/B1aaAlA" alt="Empty interface">
+    <img src="https://i.imgur.com/B1aaAlA.png" alt="Empty interface">
 </p>
 <p align="center">Trabalho realizado em Python, disponibilizados código e executável.</p>
 
